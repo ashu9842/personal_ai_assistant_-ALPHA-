@@ -9,6 +9,7 @@
 - 🗣️ Voice recognition and response using `speech_recognition` and `pyttsx3`
 - 🎵 Play songs on YouTube via voice command
 - 🔍 Ask questions and get answers using ChatGPT integration
+- 🌐 Web search and browsing with webbrowser
 
 
 ---
